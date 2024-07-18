@@ -1,0 +1,28 @@
+cd Desktop
+mkdir name_dir
+cd name_dir
+touch README.md
+ls
+git status
+
+vim file_name.ext
+git init
+git status
+git commit -m "comment"
+git status
+
+touch code.js
+git status
+git add README.md
+
+git add -A
+
+git status
+git commit -m
+
+git branch
+
+git checkout -b 7-digits
+git log
+
+git checkout master
